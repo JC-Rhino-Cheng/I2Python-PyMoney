@@ -1,0 +1,13 @@
+1000
+meal breakfast -50
+drink coffee -100
+food bread -80
+food sausage -40
+meal lunch -120
+railway MRT -45
+income lottery 50
+salary part_time 1200
+snack cake -35
+meal lunch -70
+transportation taxi -170
+bus 902 -20
